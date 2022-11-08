@@ -1,0 +1,15 @@
+{
+  "name": "jxc/hello",
+  "description": "test",
+  "type": "library",
+  "license": "TIM",
+  "autoload": {
+    "psr-4": {
+      "Jxc\\Hello\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  }
+}
