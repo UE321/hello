@@ -2,7 +2,7 @@
   "name": "jxc/hello",
   "description": "test",
   "type": "library",
-  "license": "TIM",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Jxc\\Hello\\": "src/"
